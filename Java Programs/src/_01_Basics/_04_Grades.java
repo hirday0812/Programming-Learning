@@ -1,3 +1,5 @@
+package _01_Basics;
+
 import java.util.Scanner;
 
 public class _04_Grades {
